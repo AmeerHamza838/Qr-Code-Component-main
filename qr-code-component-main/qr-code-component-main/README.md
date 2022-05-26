@@ -32,7 +32,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - HTML5
 - CSS3
 
-
 ## Author
 
 - Website - [Ameer Hamza](https://www.instagram.com/ameerhamza.6/)
